@@ -1,6 +1,6 @@
 <!-- Typing Effect at the Top -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7BE00&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!+🚀;I+am+a+Passionate+Developer!;Building+Awesome+Projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7BE00&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub!;💻+I+am+a+Passionate+Developer!;🌟+Building+Awesome+Projects!">
 </h1>
 
 ---
@@ -12,15 +12,8 @@
 
 ---
 
-<!-- Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7BE00&center=true&vCenter=true&width=550&lines=Hi+there!+👋;Welcome+to+my+GitHub+Profile;I+love+Front-end+Development!">
-</h1>
-
----
-
 <!-- 🔥 About Me Section -->
-<h1 align="center" style="color:#FFA500; border-bottom:2px solid #FFA500;">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7BE00&center=true&vCenter=true&width=500&lines=%F0%9F%92%A1+About+Me">
 </h1>
 
@@ -30,8 +23,8 @@
 
 <p align="center">
   👋 Hi, I'm <strong>Your Name</strong>, a passionate front-end developer who loves to build interactive and visually appealing web applications!  
-  🌱 I'm always learning new technologies and improving my skills.  
-  🎯 My goal is to create seamless and responsive web experiences.  
+  🌱 Always learning new technologies.  
+  🎯 Goal: Create seamless and responsive web experiences.  
   🚀 Let's connect and collaborate!
 </p>
 
@@ -44,16 +37,16 @@
 
 <div align="center">
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌍-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
@@ -65,7 +58,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,figma,webpack,vscode,linux,python" />
 </p>
 
 ---
@@ -76,18 +69,18 @@
 </h1>
 
 <p align="center">
-  🧐 Did you know? You can **make your GitHub profile dynamic** using **GitHub Actions**! 🚀
+  🎭 **Did you know?** You can **make your GitHub profile dynamic** using **GitHub Actions**! 🚀  
 </p>
 
 ---
 
-<!-- 📊 Visitor Counter -->
+<!-- 👀 Visitor Counter -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7BE00&center=true&vCenter=true&width=500&lines=%F0%9F%93%8F+Profile+Visitors">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%80+Profile+Visitors">
 </h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="Profile Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=1E90FF&style=flat-square&label=Visitors" alt="Profile Visitors" />
 </div>
 
 ---
