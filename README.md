@@ -1,3 +1,30 @@
+<!-- CSS for Glassmorphism Box and Animations -->
+<style>
+  .glass-box {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    margin: 20px;
+    animation: zoomEffect 5s infinite alternate;
+    text-align: center;
+  }
+
+  @keyframes zoomEffect {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(1.05);
+    }
+  }
+</style>
+
+<div class="glass-box">
+
 <!-- Typing Effect at the Top -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7BE00&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub!;💻+I+am+a+Passionate+Developer!;🌟+Building+Awesome+Projects!">
@@ -81,6 +108,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&color=1E90FF&style=flat-square&label=Visitors" alt="Profile Visitors" />
+</div>
+
 </div>
 
 ---
